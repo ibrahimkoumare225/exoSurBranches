@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5130d898-6d3c-46ea-ba40-42022a8537eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/exoSur LesBranches.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BOOTSTRAP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOOTSTRAP/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BOOTSTRAP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BOOTSTRAP/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BOOTSTRAP/exo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BOOTSTRAP/exo.html" afterDir="false" />
@@ -30,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/hello.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="33" selection-start-column="33" selection-end-column="33" />
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -104,16 +98,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708902017695</updated>
-      <workItem from="1708902018832" duration="348000" />
+      <workItem from="1708902018832" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="348000" />
+    <option name="totallyTimeSpent" value="648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="687" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -152,7 +145,7 @@
     <entry file="file://$PROJECT_DIR$/hello.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="33" selection-start-column="33" selection-end-column="33" />
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
